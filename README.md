@@ -4,12 +4,13 @@
 
 This project aims to develop a password generator tool that allows users to customize the criteria for their new, secure password and provides a generated password based on the selected criteria.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
+- [Features](#features)
+- [Link](#link)
 
 ## Installation
 
@@ -27,5 +28,5 @@ Arun Mundackal
 
 The Password Generator project generates random, strong passwords based on user-defined criteria, providing a simple and efficient way to enhance password security.
 
-
+## Link
 [Password-Generator](https://genjutsyou.github.io/Password-Generator/)
