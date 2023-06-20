@@ -14,7 +14,7 @@ This project aims to develop a password generator tool that allows users to cust
 
 ## Installation
 
-Clone starter code.
+No installation required, simply open the web page in a browser.
 
 ## Usage
 
